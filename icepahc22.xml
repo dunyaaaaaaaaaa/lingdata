@@ -1,0 +1,1003 @@
+<word pos="CCONJ" lemma="eða" />eða</word>
+<word pos="NUM" lemma="átta" />átta</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="fylgja" />fylgdu</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADV" lemma="mjög" />mjög</word>
+<word pos="ADV" lemma="margur" />margir</word>
+<word pos="NOUN" lemma="maður" />menn</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="bær" />bæ</word>
+<word pos="DET" lemma="sá" />þeim</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="VERB" lemma="heita" />heitir</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="arnarbæli" />Arnarbæli</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="DET" lemma="sá" />þess</word>
+<word pos="NOUN" lemma="maður" />manns</word>
+<word pos="NOUN" lemma="híbýli" />híbýla</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="það" />það</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="DET" lemma="margur" />margra</word>
+<word pos="NOUN" lemma="maður" />manna</word>
+<word pos="NOUN" lemma="mál" />mál</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="faðir" />faðir</word>
+<word pos="AUX" lemma="vera" />væri</word>
+<word pos="NOUN" lemma="drengur" />drengsins</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="NOUN" lemma="prestur" />presturinn</word>
+<word pos="VERB" lemma="færa" />fært</word>
+<word pos="ADP" lemma="fram" />fram</word>
+<word pos="NOUN" lemma="sveinn" />sveininn</word>
+<word pos="ADV" lemma="þangað" />þangað</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="CCONJ" lemma="bæði" />bæði</word>
+<word pos="ADJ" lemma="gamall" />gamall</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="fésnauður" />fésnauður</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="NOUN" lemma="vatnavöxtur" />vatnavöxtur</word>
+<word pos="DET" lemma="mikill" />mikill</word>
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="AUX" lemma="vera" />voru</word>
+<word pos="NOUN" lemma="vatnfall" />vatnföll</word>
+<word pos="NUM" lemma="tveir" />tvö</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="ADP" lemma="milli" />milli</word>
+<word pos="DET" lemma="sá" />þeirra</word>
+<word pos="NOUN" lemma="bær" />bæjanna</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="sveinn" />sveininum</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="fylgja" />fylgt</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="hvorki" />hvorki</word>
+<word pos="ADJ" lemma="grunnur" />grynnra</word>
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="VERB" lemma="taka" />tók</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="ADJ" lemma="miður" />miðja</word>
+<word pos="NOUN" lemma="síða" />síðu</word>
+<word pos="NOUN" lemma="hross" />hrossi</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="óæð" />óæð</word>
+<word pos="ADJ" lemma="óknámur" />óknám</word>
+<word pos="NOUN" lemma="maður" />mönnum</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="þótt" />þótt</word>
+<word pos="ADJ" lemma="roskinn" />rosknir</word>
+<word pos="AUX" lemma="vera" />væru</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="NOUN" lemma="strangleikur" />strangleiks</word>
+<word pos="NOUN" lemma="sök" />sökum</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="AUX" lemma="hafa" />höfðu</word>
+<word pos="ADP" lemma="niður" />niður</word>
+<word pos="VERB" lemma="setja" />settan</word>
+<word pos="NOUN" lemma="sveinn" />sveininn</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="fara" />fóru</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="braut" />braut</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADV" lemma="aftur" />aftur</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="arnarbæli" />Arnarbæli</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="búandi" />búandinn</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="ADV" lemma="heima" />heima</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="DET" lemma="sá" />þeim</word>
+<word pos="NOUN" lemma="bær" />bænum</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADP" lemma="niður" />niður</word>
+<word pos="VERB" lemma="setja" />settur</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="húsfreyja" />húsfreyja</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="ADP" lemma="við" />við</word>
+<word pos="NOUN" lemma="óður" />óð</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="keyra" />keyrði</word>
+<word pos="NOUN" lemma="sveinn" />sveininn</word>
+<word pos="NOUN" lemma="högg" />höggum</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="braut" />braut</word>
+<word pos="ADV" lemma="þegar" />þegar</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="hæll" />hæla</word>
+<word pos="PRON" lemma="það" />þeim</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="ADV" lemma="þá" />
+Þá</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADJ" lemma="framorðið" />framorðið</word>
+<word pos="NOUN" lemma="dagur" />dags</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="skúraveður" />skúraveður</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="VERB" lemma="hafa" />hafði</word>
+<word pos="NOUN" lemma="skinn" />skinn</word>
+<word pos="ADP" lemma="yfir" />yfir</word>
+<word pos="PRON" lemma="sig" />sér</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="nótt" />nótt</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="verða" />orðin</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="PRON" lemma="hún" />henni</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="hugur" />hug</word>
+<word pos="NOUN" lemma="húsfreyja" />húsfreyjunni</word>
+<word pos="ADV" lemma="hversu" />hversu</word>
+<word pos="ADV" lemma="ferlega" />ferlega</word>
+<word pos="PRON" lemma="hún" />hún</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="NOUN" lemma="sveinn" />sveininn</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="braut" />braut</word>
+<word pos="VERB" lemma="reka" />rekinn</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="biðja" />bað</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="maður" />menn</word>
+<word pos="AUX" lemma="skulu" />skyldu</word>
+<word pos="VERB" lemma="fara" />fara</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="leita" />leita</word>
+<word pos="PRON" lemma="hann" />hans</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="fara" />
+Fóru</word>
+<word pos="NUM" lemma="tveir" />tveir</word>
+<word pos="NOUN" lemma="maður" />menn</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="leita" />leita</word>
+<word pos="NOUN" lemma="sveinn" />sveinsins</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="finna" />fundu</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="fara" />fóru</word>
+<word pos="SCONJ" lemma="uns" />uns</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="VERB" lemma="koma" />komu</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="arnarbæli" />Arnarbæli</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="ráða" />réðust</word>
+<word pos="NOUN" lemma="maður" />menn</word>
+<word pos="ADV" lemma="þaðan" />þaðan</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="ferð" />ferð</word>
+<word pos="ADP" lemma="með" />með</word>
+<word pos="PRON" lemma="það" />þeim</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="leita" />leita</word>
+<word pos="NOUN" lemma="sveinn" />sveinsins</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="prestur" />prestur</word>
+<word pos="DET" lemma="sá" />sá</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADP" lemma="upp" />upp</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="VERB" lemma="fæða" />fæddan</word>
+<word pos="NOUN" lemma="sveinn" />sveininn</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="ADJ" lemma="hryggur" />hryggur</word>
+<word pos="ADP" lemma="við" />við</word>
+<word pos="DET" lemma="þessi" />þenna</word>
+<word pos="NOUN" lemma="atburður" />atburð</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="fara" />fór</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="kirkja" />kirkju</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="syngja" />söng</word>
+<word pos="PROPN" lemma="salteri" />saltera</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="heita" />hét</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="DET" lemma="allur" />öllum</word>
+<word pos="NOUN" lemma="hugur" />hug</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="leiðrétta" />leiðrétti</word>
+<word pos="DET" lemma="nokkur" />nakkvað</word>
+<word pos="PRON" lemma="hann" />þeirra</word>
+<word pos="NOUN" lemma="mál" />mál</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="stund" />stundu</word>
+<word pos="ADV" lemma="síðar" />síðar</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="arnarbæli" />Arnarbæli</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADJ" lemma="þurr" />þurr</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="kátur" />kátur</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADP" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADV" lemma="ekki" />ekki</word>
+<word pos="ADJ" lemma="votur" />votur</word>
+<word pos="ADJ" lemma="stór" />stórs</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="NOUN" lemma="ökkli" />ökkla</word>
+<word pos="ADP" lemma="upp" />upp</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="PRON" lemma="hann" />
+Hann</word>
+<word pos="VERB" lemma="segja" />sagði</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="ADP" lemma="frá" />frá</word>
+<word pos="NOUN" lemma="ferð" />ferð</word>
+<word pos="PRON" lemma="sinn" />sinni</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="fara" />fór</word>
+<word pos="VERB" lemma="gráta" />grátandi</word>
+<word pos="ADP" lemma="úr" />úr</word>
+<word pos="NOUN" lemma="garður" />garði</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="AUX" lemma="hafa" />höfðu</word>
+<word pos="ADP" lemma="við" />við</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="skila" />skilist</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="vita" />vissi</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="ADV" lemma="hvert" />hvert</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="horfa" />horfði</word>
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="NOUN" lemma="veður" />veðrið</word>
+<word pos="ADJ" lemma="ósvás" />ósvást</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="kveða" />
+Kvaðst</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="heita" />heitið</word>
+<word pos="AUX" lemma="hafa" />hafa</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="DET" lemma="allur" />allt</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="mega" />mátti</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="skulu" />skyldi</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADP" lemma="við" />við</word>
+<word pos="VERB" lemma="hjálpa" />hjálpa</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="fara" />
+Fór</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="SCONJ" lemma="uns" />uns</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="ADP" lemma="að" />að</word>
+<word pos="NOUN" lemma="sauðaskjól" />sauðaskjóli</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="sofna" />sofnaði</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="vakna" />vaknaði</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="sjá" />sá</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="þegar" />þegar</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="bær" />bæinn</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="arnarbæli" />Arnarbæli</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="ganga" />gekk</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="hús" />húss</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="ADV" lemma="ekki" />ekki</word>
+<word pos="NOUN" lemma="vatn" />vatnið</word>
+<word pos="VERB" lemma="finna" />fundið</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="leið" />leiðinni</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="ADV" lemma="hvergi" />hvergi</word>
+<word pos="AUX" lemma="mega" />mátti</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="VERB" lemma="fara" />fara</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="ADP" lemma="milli" />milli</word>
+<word pos="ADP" lemma="að" />að</word>
+<word pos="ADJ" lemma="mennskur" />mennskri</word>
+<word pos="NOUN" lemma="ætlun" />ætlun</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="AUX" lemma="vera" />væri</word>
+<word pos="ADV" lemma="þar" />þar</word>
+<word pos="NUM" lemma="tveir" />tvö</word>
+<word pos="VERB" lemma="renna" />rennandi</word>
+<word pos="NOUN" lemma="vatn" />vötn</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="AUX" lemma="munu" />mundi</word>
+<word pos="ADP" lemma="yfir" />yfir</word>
+<word pos="DET" lemma="hvortki" />hvortki</word>
+<word pos="VERB" lemma="koma" />komast</word>
+<word pos="AUX" lemma="mega" />mega</word>
+<word pos="ADV" lemma="fararskjótalaust" />fararskjótalaust</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="verða" />
+Urðu</word>
+<word pos="DET" lemma="allur" />allir</word>
+<word pos="ADJ" lemma="feginn" />fegnir</word>
+<word pos="DET" lemma="þessi" />þessi</word>
+<word pos="NOUN" lemma="jarteinn" />jartein</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADP" lemma="við" />við</word>
+<word pos="AUX" lemma="vera" />voru</word>
+<word pos="ADJ" lemma="staddur" />staddir</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="lofa" />lofuðu</word>
+<word pos="PROPN" lemma="guð" />guð</word>
+<word pos="ADJ" lemma="almáttugur" />almáttkan</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="slíkur" />slíkar</word>
+<word pos="NOUN" lemma="dýrð" />dýrðir</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="jartein" />jarteinir</word>
+<word pos="VERB" lemma="láta" />lætur</word>
+<word pos="VERB" lemma="verða" />verða</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="sífella" />sífellu</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="NOUN" lemma="þjónn" />þjón</word>
+<word pos="PRON" lemma="sinn" />sinn</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="PRON" lemma="það" />
+Það</word>
+<word pos="VERB" lemma="bera" />barst</word>
+<word pos="ADV" lemma="enn" />enn</word>
+<word pos="ADP" lemma="að" />að</word>
+<word pos="DET" lemma="þessi" />þenna</word>
+<word pos="NOUN" lemma="vetur" />vetur</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="DET" lemma="einn" />einn</word>
+<word pos="ADJ" lemma="ungur" />ungur</word>
+<word pos="NOUN" lemma="maður" />maður</word>
+<word pos="ADJ" lemma="fátækur" />fátækur</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="PRON" lemma="sig" />sér</word>
+<word pos="DET" lemma="enginn" />öngva</word>
+<word pos="NOUN" lemma="björg" />björg</word>
+<word pos="SCONJ" lemma="nema" />nema</word>
+<word pos="PRON" lemma="hann" />þá</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADJ" lemma="góður" />góðir</word>
+<word pos="NOUN" lemma="maður" />menn</word>
+<word pos="VERB" lemma="gefa" />gáfu</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="PROPN" lemma="guð" />guðs</word>
+<word pos="NOUN" lemma="saka" />sakar</word>
+<word pos="CCONJ" lemma="eða" />eða</word>
+<word pos="PRON" lemma="það" />það</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="mega" />mátti</word>
+<word pos="VERB" lemma="veiða" />veiða</word>
+<word pos="DET" lemma="nokkur" />nakkvað</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="matur" />matar</word>
+<word pos="PRON" lemma="sig" />sér</word>
+<word pos="ADP" lemma="úr" />úr</word>
+<word pos="NOUN" lemma="fiskivatn" />fiskivötnum</word>
+<word pos="PUNCT" lemma="." />.</word>
+<word pos="DET" lemma="sá" />Sjá</word>
+<word pos="NOUN" lemma="maður" />maður</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="NOUN" lemma="frændi" />frændi</word>
+<word pos="DET" lemma="hinn" />hins</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorláks</word>
+<word pos="NOUN" lemma="biskup" />biskups</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="DET" lemma="margur" />margt</word>
+<word pos="VERB" lemma="gefa" />gefið</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADJ" lemma="langur" />löngum</word>
+<word pos="VERB" lemma="veita" />veitt</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="PRON" lemma="hann" />
+Hann</word>
+<word pos="VERB" lemma="ganga" />gekk</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="vatn" />vatns</word>
+<word pos="DET" lemma="einn" />einn</word>
+<word pos="DET" lemma="hver" />hvern</word>
+<word pos="NOUN" lemma="dagur" />dag</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="NOUN" lemma="skammdegi" />skammdegi</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="sitja" />sat</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="ís" />ísi</word>
+<word pos="DET" lemma="allur" />allan</word>
+<word pos="NOUN" lemma="dagur" />dag</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="ADJ" lemma="allmikill" />allmiklum</word>
+<word pos="NOUN" lemma="kuldi" />kulda</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="veiða" />veiddi</word>
+<word pos="DET" lemma="ekkert" />ekki</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="ekkert" />ekki</word>
+<word pos="VERB" lemma="veiða" />veiddu</word>
+<word pos="PRON" lemma="annar" />aðrir</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="ís" />ísinum</word>
+<word pos="VERB" lemma="sitja" />sátu</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="VERB" lemma="hafa" />hafði</word>
+<word pos="DET" lemma="ekkert" />ekki</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="náttverður" />náttverðar</word>
+<word pos="SCONJ" lemma="nema" />nema</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="veiða" />veiddi</word>
+<word pos="NOUN" lemma="nokkur" />nakkvað</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="taka" />tók</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="líða" />líða</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="dagur" />daginn</word>
+<word pos="ADP" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="VERB" lemma="koma" />komið</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="ADP" lemma="að" />að</word>
+<word pos="NOUN" lemma="sólarfall" />sólarfalli</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="taka" />
+Tók</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="harðna" />harðna</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="skap" />skapi</word>
+<word pos="NOUN" lemma="sveinn" />sveinsins</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="vera" />
+Var</word>
+<word pos="CCONJ" lemma="bæði" />bæði</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="kæla" />kól</word>
+<word pos="ADV" lemma="mjög" />mjög</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="hungra" />hungraði</word>
+<word pos="CCONJ" lemma="en" />en</word>
+<word pos="VERB" lemma="veiða" />veiddi</word>
+<word pos="DET" lemma="ekkert" />ekki</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="heita" />
+Hét</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="ADP" lemma="með" />með</word>
+<word pos="NOUN" lemma="grátur" />gráti</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="skulu" />skyldi</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="ADV" lemma="enn" />enn</word>
+<word pos="DET" lemma="nokkur" />nakkvað</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="náttverður" />náttverðar</word>
+<word pos="VERB" lemma="gefa" />gefa</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="DET" lemma="margur" />margan</word>
+<word pos="NOUN" lemma="málsmat" />málsmat</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="ADV" lemma="fyrr" />fyrr</word>
+<word pos="VERB" lemma="gefa" />gefinn</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="heita" />hét</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="PART" lemma="að" />að</word>
+<word pos="VERB" lemma="syngja" />syngva</word>
+<word pos="NUM" lemma="fimm" />fimm</word>
+<word pos="NOUN" lemma="tigur" />tigum</word>
+<word pos="NOUN" lemma="sinni" />sinna</word>
+<word pos="X" lemma="pater" />Pater</word>
+<word pos="X" lemma="noster" />noster</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="dýrð" />dýrðar</word>
+<word pos="DET" lemma="hinn" />hinum</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorláki</word>
+<word pos="NOUN" lemma="biskup" />biskupi</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="helgur" />helgi</word>
+<word pos="PROPN" lemma="guð" />guðs</word>
+<word pos="NOUN" lemma="þjónn" />þjónn</word>
+<word pos="VERB" lemma="heyra" />heyrði</word>
+<word pos="NOUN" lemma="bón" />bón</word>
+<word pos="PRON" lemma="hann" />hans</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="áheit" />áheit</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="veita" />veitti</word>
+<word pos="PRON" lemma="það" />það</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="biðja" />beðinn</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="fara" />
+Fór</word>
+<word pos="NOUN" lemma="sveinn" />sveinninn</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="ADV" lemma="fyrr" />fyrr</word>
+<word pos="ADV" lemma="heim" />heim</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="ís" />ísinum</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="NOUN" lemma="aftann" />aftan</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="en" />en</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="VERB" lemma="veiða" />veidda</word>
+<word pos="NUM" lemma="fimm" />fimm</word>
+<word pos="NOUN" lemma="tugur" />tigu</word>
+<word pos="NOUN" lemma="fiskur" />fiska</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="vera" />voru</word>
+<word pos="DET" lemma="mikill" />miklu</word>
+<word pos="ADJ" lemma="góður" />betri</word>
+<word pos="NOUN" lemma="hold" />holdi</word>
+<word pos="SCONJ" lemma="en" />en</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="þykja" />þótti</word>
+<word pos="NOUN" lemma="von" />von</word>
+<word pos="AUX" lemma="vera" />vera</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="DET" lemma="sá" />það</word>
+<word pos="NOUN" lemma="mund" />mund</word>
+<word pos="NOUN" lemma="vetur" />vetrar</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="ADV" lemma="ekki" />
+Ekki</word>
+<word pos="VERB" lemma="kæla" />kól</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="þaðan" />þaðan</word>
+<word pos="ADP" lemma="frá" />frá</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="VERB" lemma="heita" />heitið</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="PRON" lemma="annar" />aðrir</word>
+<word pos="VERB" lemma="veiða" />veiddu</word>
+<word pos="DET" lemma="ekkert" />ekki</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADP" lemma="hjá" />hjá</word>
+<word pos="PRON" lemma="hann" />honum</word>
+<word pos="VERB" lemma="sitja" />sátu</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="ís" />ísinum</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="VERB" lemma="fara" />
+Fór</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="ADV" lemma="heim" />heim</word>
+<word pos="ADV" lemma="þangað" />þangað</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="VERB" lemma="innhýsa" />innhýstur</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="fá" />fékk</word>
+<word pos="PRON" lemma="sig" />sér</word>
+<word pos="DET" lemma="nokkur" />nakkvað</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="atvinna" />atvinnu</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="vita" />vissu</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="ADV" lemma="glögglega" />glögglega</word>
+<word pos="DET" lemma="þessi" />þenna</word>
+<word pos="NOUN" lemma="atburður" />atburð</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="NOUN" lemma="þingaprestur" />þingaprestur</word>
+<word pos="PRON" lemma="hann" />þeirra</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="lofa" />lofuðu</word>
+<word pos="DET" lemma="allur" />allir</word>
+<word pos="PROPN" lemma="guð" />guð</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="DET" lemma="sá" />
+Sá</word>
+<word pos="NOUN" lemma="atburður" />atburður</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="PROPN" lemma="viðey" />Viðeyju</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="örn" />örn</word>
+<word pos="VERB" lemma="leggja" />lagðist</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="eyja" />eyna</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="NOUN" lemma="vor" />vorið</word>
+<word pos="ADP" lemma="eftir" />eftir</word>
+<word pos="NOUN" lemma="vetur" />vetur</word>
+<word pos="DET" lemma="sá" />þann</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="ADV" lemma="áður" />áður</word>
+<word pos="AUX" lemma="vera" />er</word>
+<word pos="ADP" lemma="frá" />frá</word>
+<word pos="VERB" lemma="segja" />sagt</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="DET" lemma="sá" />það</word>
+<word pos="NOUN" lemma="mund" />mund</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="von" />von</word>
+<word pos="AUX" lemma="vera" />var</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="eggver" />eggver</word>
+<word pos="AUX" lemma="vera" />væri</word>
+<word pos="SCONJ" lemma="sem" />sem</word>
+<word pos="ADV" lemma="meira" />mest</word>
+<word pos="SCONJ" lemma="ef" />ef</word>
+<word pos="ADV" lemma="ekki" />eigi</word>
+<word pos="VERB" lemma="bera" />bæri</word>
+<word pos="PRON" lemma="annar" />annað</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="VERB" lemma="gera" />gerði</word>
+<word pos="ADV" lemma="svo" />svo</word>
+<word pos="ADV" lemma="mikill" />mikið</word>
+<word pos="NOUN" lemma="búrán" />búrán</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="NOUN" lemma="fjárskaði" />fjárskaða</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="fogl" />foglinn</word>
+<word pos="VERB" lemma="verpa" />varp</word>
+<word pos="ADV" lemma="nærri" />nær</word>
+<word pos="ADV" lemma="enginn" />engi</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="DET" lemma="sá" />sá</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="VERB" lemma="verpa" />varp</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="bera" />bar</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="ADV" lemma="undan" />undan</word>
+<word pos="ADV" lemma="jafnskjótt" />jafnskjótt</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="VERB" lemma="fljúga" />fló</word>
+<word pos="ADV" lemma="enn" />enn</word>
+<word pos="ADP" lemma="of" />of</word>
+<word pos="NOUN" lemma="dagur" />dag</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="eyja" />eyna</word>
+<word pos="ADV" lemma="nærri" />nær</word>
+<word pos="PROPN" lemma="nón" />nóni</word>
+<word pos="NOUN" lemma="dagur" />dags</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="fara" />fór</word>
+<word pos="PROPN" lemma="bjarni" />Bjarni</word>
+<word pos="NOUN" lemma="prestur" />prestur</word>
+<word pos="NOUN" lemma="búandi" />búandi</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="kirkja" />kirkju</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="heita" />hét</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="NOUN" lemma="fulltingi" />fulltings</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="AUX" lemma="mega" />mætti</word>
+<word pos="VERB" lemma="ráða" />ráðast</word>
+<word pos="DET" lemma="þessi" />þetta</word>
+<word pos="NOUN" lemma="vandræði" />vandræði</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="verkmaður" />verkmenn</word>
+<word pos="AUX" lemma="vera" />voru</word>
+<word pos="ADP" lemma="að" />að</word>
+<word pos="NOUN" lemma="arning" />arningu</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="vita" />vissu</word>
+<word pos="ADV" lemma="ekki" />ekki</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hefði</word>
+<word pos="VERB" lemma="heita" />heitið</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="NOUN" lemma="prestur" />presturinn</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="VERB" lemma="koma" />kom</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="eyja" />eyna</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="setja" />settist</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="ADJ" lemma="skammur" />skammt</word>
+<word pos="ADP" lemma="frá" />frá</word>
+<word pos="PRON" lemma="það" />þeim</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="ADV" lemma="þá" />
+Þá</word>
+<word pos="VERB" lemma="hlaupa" />hljóp</word>
+<word pos="DET" lemma="einn" />einn</word>
+<word pos="NOUN" lemma="verkmaður" />verkmaður</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="vilja" />vildi</word>
+<word pos="VERB" lemma="elta" />elta</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="braut" />braut</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="VERB" lemma="bíða" />beið</word>
+<word pos="PRON" lemma="hann" />hans</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="ADJ" lemma="samur" />sama</word>
+<word pos="NOUN" lemma="staður" />stað</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="ljósta" />laust</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="NOUN" lemma="örn" />örninn</word>
+<word pos="ADP" lemma="með" />með</word>
+<word pos="NOUN" lemma="verkfæri" />verkfærinu</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PRON" lemma="hann" />hann</word>
+<word pos="AUX" lemma="hafa" />hafði</word>
+<word pos="ADP" lemma="í" />í</word>
+<word pos="NOUN" lemma="hönd" />hendi</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="drífa" />drifu</word>
+<word pos="PRON" lemma="hann" />þeir</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="ADP" lemma="til" />til</word>
+<word pos="DET" lemma="margur" />fleiri</word>
+<word pos="NOUN" lemma="verkmaður" />verkmenn</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="AUX" lemma="geta" />gátu</word>
+<word pos="VERB" lemma="hlaða" />hlaðið</word>
+<word pos="NOUN" lemma="erna" />erninum</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="ADV" lemma="síðan" />síðan</word>
+<word pos="VERB" lemma="samna" />samnaðist</word>
+<word pos="NOUN" lemma="fogl" />fogl</word>
+<word pos="ADP" lemma="í" />i</word>
+<word pos="NOUN" lemma="eyja" />eyna</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="NOUN" lemma="eggver" />eggver</word>
+<word pos="CCONJ" lemma="bæði" />bæði</word>
+<word pos="ADJ" lemma="góður" />gott</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="mikill" />mikið</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="lofa" />lofuðu</word>
+<word pos="DET" lemma="allur" />allir</word>
+<word pos="PROPN" lemma="guð" />guð</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="DET" lemma="hinn" />hinn</word>
+<word pos="ADJ" lemma="sæll" />sæla</word>
+<word pos="PROPN" lemma="þorlákur" />Þorlák</word>
+<word pos="NOUN" lemma="biskup" />biskup</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="ADP" lemma="í" />
+Í</word>
+<word pos="PROPN" lemma="flói" />Flóa</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="DET" lemma="sá" />sá</word>
+<word pos="NOUN" lemma="atburður" />atburður</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN" lemma="kona" />kona</word>
+<word pos="DET" lemma="sá" />sú</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="SCONJ" lemma="er" />er</word>
+<word pos="PROPN" lemma="þórný" />Þórný</word>
+<word pos="VERB" lemma="heita" />heitir</word>
+<word pos="PUNCT" lemma="," />,</word>
+<word pos="VERB" lemma="hefja" />hóf</word>
+<word pos="NOUN" lemma="ketill" />ketil</word>
+<word pos="ADP" lemma="af" />af</word>
+<word pos="NOUN" lemma="eldur" />eldi</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="ADV" lemma="þá" />þá</word>
+<word pos="VERB" lemma="verða" />varð</word>
+<word pos="NOUN" lemma="tré" />tré</word>
+<word pos="ADP" lemma="fyrir" />fyrir</word>
+<word pos="NOUN" lemma="hæll" />hælum</word>
+<word pos="PRON" lemma="hún" />henni</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="falla" />féll</word>
+<word pos="PRON" lemma="hún" />hún</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="NOUN" lemma="bak" />bak</word>
+<word pos="ADV" lemma="aftur" />aftur</word>
+<word pos="PUNCT
+" lemma="." />.</word><word pos="CCONJ" lemma="en" />
+En</word>
+<word pos="NOUN" lemma="ketill" />ketillinn</word>
+<word pos="VERB" lemma="vella" />vellandi</word>
+<word pos="VERB" lemma="slagna" />slagnaði</word>
+<word pos="ADP" lemma="á" />á</word>
+<word pos="PRON" lemma="hún" />hana</word>
+<word pos="CCONJ" lemma="og" />og</word>
+<word pos="VERB" lemma="brenna" />brann</word>
+<word pos="PRON" lemma="hún" />hún</word>
+<word pos="ADV" lemma="mjög" />mjög</word>
+<word pos="ADP" lemma="svo" />svo</word>
+<word pos="SCONJ" lemma="að" />að</word>
+<word pos="NOUN
+" lemma="maður" />mönnum</word>
+^([^\t]*)\t([^\t]*)\t([^\t]*$)
+<word pos="\3" lemma="\2" />\1</word>
